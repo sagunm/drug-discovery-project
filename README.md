@@ -1,4 +1,4 @@
-# drug-discovery-project
+# Drug Discovery Project
 
 
 * **Data** - The ChEMBL database was used to procure the data needed for this project. The database consists of curated bioactivity data of more than 2 million compounds.
